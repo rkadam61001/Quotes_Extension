@@ -1,0 +1,17 @@
+body{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(240, 238, 161);
+    display: flex;
+    justify-content: center;
+}
+#quotes_id{
+    font-size: 22px;
+    margin: auto 10px;
+    display: inner-flex;
+    font-family: 'Sedgwick Ave', cursive;
+    color:black;
+    border-radius: 6px;
+    border: 1px solid rgb(214, 245, 78);
+    padding: 5px;
+}
